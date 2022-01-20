@@ -59,11 +59,11 @@
                                         <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                         <nil key="highlightedColor"/>
                                     </label>
-                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="cN0-Ga-Yt8" customClass="AnimationView" customModule="Lottie">
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LNi-pc-StV" customClass="AnimationView" customModule="Lottie">
                                         <rect key="frame" x="0.0" y="87" width="374" height="200"/>
                                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="200" id="GQE-Tr-urJ"/>
+                                            <constraint firstAttribute="height" constant="200" id="wWD-lf-icA"/>
                                         </constraints>
                                     </view>
                                     <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="30" translatesAutoresizingMaskIntoConstraints="NO" id="37n-BF-iJV">
@@ -169,7 +169,7 @@
                         <outlet property="benefitDateLabel" destination="9qK-4F-P0k" id="9qT-b0-IZP"/>
                         <outlet property="benefitDetailLabel" destination="Xdu-bO-pdD" id="B3C-gs-r29"/>
                         <outlet property="conditionLabel" destination="4MK-yP-Pap" id="DpN-yp-2ou"/>
-                        <outlet property="lottieView" destination="cN0-Ga-Yt8" id="QbW-Oj-mul"/>
+                        <outlet property="lottieView" destination="LNi-pc-StV" id="Ghe-OK-CTl"/>
                         <outlet property="periodLabel" destination="WZy-RY-nsv" id="erm-CO-ucl"/>
                         <outlet property="titleLabel" destination="Nog-MM-B0Z" id="0y0-gh-ky7"/>
                     </connections>
